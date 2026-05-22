@@ -9,7 +9,7 @@
 <body>
 <h1>Checkout</h1>
 <section>
-    <h2>Your Cart</h2>
+    <h2>Your Cart </h2>
     <img src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg" alt="cube">
     <p>cube</p>
     <p>$29.9</p>
