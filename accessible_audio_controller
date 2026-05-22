@@ -8,7 +8,7 @@
 
     <h1>Audio Controls</h1>
 
-    <button type="button">Play</button>
+    <button type="button">Play.</button>
 
     <div>
       <span id="volume-label">Volume</span>
